@@ -20,8 +20,8 @@ My internship experience at CODTECH IT Solutions was enriching and challenging. 
 
 #OUTPUT
 
+[Sales_Report.pdf](https://github.com/user-attachments/files/20656648/Sales_Report.pdf)
+
+![Image](https://github.com/user-attachments/assets/600742a9-3817-4ae2-a7c5-14d7c7dab125)
 
 [sales_data.csv](https://github.com/user-attachments/files/20656647/sales_data.csv)
-
-
-[Sales_Report.pdf](https://github.com/user-attachments/files/20656648/Sales_Report.pdf)
